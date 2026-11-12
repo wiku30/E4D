@@ -9,7 +9,7 @@
 
 (Summary to be written.)
 
-*This reading list is indicative, representative, but not exhaustive, and is under construction and expansion. Papers on related or similar topics are also encouraged for reading.*
+*This reading list is indicative, representative, but not exhaustive, and is under construction and expansion. I will add more contexts on high-level organization in future versions. Papers on related or similar topics are also encouraged for reading.*
 
 ## Credible Auctions & Transaction Fee Mechanisms
 
