@@ -2,6 +2,8 @@
 
 *Enchanté, à https://arxiv.org/abs/2106.03176.*
 
+wiku30, T'AIMER Lab
+
 # Reading List - Economics for Decentralization
 
 
