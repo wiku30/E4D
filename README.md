@@ -7,7 +7,7 @@
 # Reading List - Economics for Decentralization
 
 
-(Summary to be written.)
+(Summary to be written. You may use AI tools to summarize this reading list before I post my summary!)
 
 *This reading list is indicative, representative, but not exhaustive, and is under construction and expansion. I will add more contexts on high-level organization in future versions. Papers on related or similar topics are also encouraged for reading.*
 
