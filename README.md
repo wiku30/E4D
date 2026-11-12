@@ -63,6 +63,11 @@ https://arxiv.org/abs/2405.00295
 
 https://arxiv.org/abs/2509.24257
 
+
+*TAO: Tolerance-Aware Optimistic Verification for Floating-Point Neural Networks*
+
+https://arxiv.org/abs/2510.16028
+
 ## ZK x OP: Synergy Between Cryptography and Mechanism Design
 
 ## Adaptive Mechanism Design for Blockchain & Decentralized AI
@@ -82,5 +87,6 @@ https://jmlr.org/papers/volume17/14-499/14-499.pdf
 *Multi-agent Adaptive Mechanism Design, WINE 2026*
 
 https://arxiv.org/abs/2512.21794
+
 
 ## Information Aggragation & Voting Mechanisms
