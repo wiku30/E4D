@@ -71,6 +71,10 @@ https://arxiv.org/abs/2509.24257
 
 https://eips.ethereum.org/EIPS/eip-1559
 
+*Uniswap v2 Core*
+
+https://app.uniswap.org/whitepaper.pdf
+
 *Learning Algorithms for Second-Price Auctions with Reserve, JMLR 2016*
 
 https://jmlr.org/papers/volume17/14-499/14-499.pdf
